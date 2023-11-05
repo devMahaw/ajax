@@ -9,7 +9,7 @@ Projeto para treino de requisições AJAX.
 
 ## Visão Geral
 
-Nesse projeto há um formulário simples que no campo de CEP é utilizada a API(https://viacep.com.br/). O site está totalmente responsivo.
+Nesse projeto há um formulário simples que no campo de CEP é utilizada a API(https://viacep.com.br/). O site não está responsivo.
 
 ## Tecnologias Usadas
 
